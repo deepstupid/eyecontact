@@ -1,0 +1,6 @@
+{
+  "name": "Oculus - Eye Contact Simulator",
+  "description": "A behavioral simulator visualizing eye contact dynamics between different personality types and cultural norms, powered by Gemini for interaction analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
